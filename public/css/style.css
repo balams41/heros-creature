@@ -1,0 +1,17 @@
+
+
+h1{
+    color: blue;
+    
+    text-align: center;
+}
+
+body{
+    background-image: url(/public/img/fond.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer{
+    text-align: center;
+}
