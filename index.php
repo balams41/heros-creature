@@ -6,6 +6,7 @@
     <h1>Les heros le plus fun et mignon !</h1>
     <div class="container-fluid my-5">
         <div class="row justify-content-between">
+
             <?php
             if($heros){
                 foreach($heros as $value){
@@ -24,7 +25,10 @@
             }   
             ?>
         </div>
+        <a href="form.php">contact</a>
     </div>
 <?php
     require_once 'partials/footer.php';
 ?>
+   
+
